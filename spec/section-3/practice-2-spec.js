@@ -23,10 +23,10 @@ describe('practice-3-2', () => {
 
     expect(result).toEqual([
       {key: 'a', count: 2},
-      {key: 'e', count: 5},
+      {key: 'e', count: 6},
       {key: 'h', count: 11},
       {key: 't', count: 20},
-      {key: 'f', count: 6},
+      {key: 'f', count: 8},
       {key: 'c', count: 8},
       {key: 'g', count: 7},
       {key: 'b', count: 6},
